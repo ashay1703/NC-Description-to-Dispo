@@ -1,0 +1,7 @@
+Part_ID,Disposition,NC_Description
+P123,Repair,"Operator mistakenly rejected the part, no issue found."
+P124,Scrap,Battery cell punctured during welding.
+P125,Repair,No repair performed; issue not observed during recheck.
+P126,Use As Is,"Minor cosmetic defect, accepted by quality engineer."
+P127,Repair,"Operator wrote wrong code, part was actually fine."
+P128,Repair,Part was reworked and sent back to the line
